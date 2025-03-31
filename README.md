@@ -2,10 +2,10 @@
 
 <h2>💻 Softwareentwicklungsprojekte:</h2>
 
-- <b>Entwicklung von Snake Game mit Arduino UNO und Komponente (8x8 LED Matrix, Joystick)</b>
-  - [Snake Game mit Arduino UNO](https://github.com/TBilly11/Snake-Game-mit-Arduino)
+- <b>Entwicklung von Snake Game mit Arduino UNO und Komponente (8x8 LED Matrix, Joystick) <b>
+  - [Snake Game mit Arduino UNO](https://github.com/TBilly11/Snake-Game-mit-Arduino) <b>
 - <b>Programmierung einer Kaffeemaschine mit (TIA Portal)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Getränkeautomat](https://github.com/TBilly11/Kaffeemaschine-mit-TIA-Portal) <b>
 - <b>Programmierung von Verkehrssignalanlagen (CODESYS)</b>
   - [Verkehrssignalanlagen](https://github.com/TBilly11/Verkehrssignalanlagen-CODESYS-.git)
  
