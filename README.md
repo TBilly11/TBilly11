@@ -11,7 +11,7 @@
 - <b>Datenkommunikation: Implementierung einer RESTful API zur bidirektionalen Datenübertragung zwischen einem ESP32-Microcontoller und einer Webapp  mittels HTTP-Anfragen<b>
   - [Datenübertragung zwischen einem ESP32-Microcontoller und einer Webapp](https://github.com/TBilly11/Daten-Uebertragung-zwischen-einem-ESP32-Microcontoller-und-einer-Webapp-mittels-HTTP-Anfragen)
 - <b>Entfernungsabschätzung durch lineare MLP-Regression mit PyTorch</b>
-  - [Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Deliver)
+  - [Application](https://github.com/joshmadakor1/Package-Deliver)
 </b>
 </b>
 <h2>💻 Regelung- und Simulationsprojekte:</h2>
