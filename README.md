@@ -20,6 +20,8 @@
 
 - <b>Elektrofahrzeug: Modellierung, Regelung und Simulation (MATLAB/Simulink)</b>
   - [Elektrofahrzeug (MATLAB/Simulink)](https://github.com/TBilly11/Elektrofahrzeug-Modellierung-Regelung-und-Simulation-MATLAB-Simulink)
+- <b>Windkraftanlage: Modellierung, Regelung und Simulation einer Windkraftanlage (MATLAB/Simulink)</b>
+  - [Windkraftanlage (MATLAB/Simulink)](https://github.com/TBilly11/Modellierung-Regelung-und-Simulation-einer-Windkraftanlage-MATLAB-Simulink) 
 </b>
 </b>
 <h2>Mit mir vernetzen</h2>
