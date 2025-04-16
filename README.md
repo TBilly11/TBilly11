@@ -13,7 +13,7 @@
 - <b>Entfernungsabschätzung durch lineare MLP-Regression mit PyTorch</b>
   - [Application](https://github.com/joshmadakor1/Package-Deliver)
 - <b>REST Full API mit Datenbank <b>
-  - [Web APP](https://github.com/TBilly11/Snake-Game-mit-Arduino) <b>
+  - [Web APP](https://github.com/TBilly11/REST-Full-API) <b>
 </b>
 </b>
 <h2>💻 Regelung- und Simulationsprojekte:</h2>
