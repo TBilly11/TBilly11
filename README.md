@@ -12,7 +12,7 @@
   - [Datenübertragung zwischen einem ESP32-Microcontoller und einer Webapp](https://github.com/TBilly11/Daten-Uebertragung-zwischen-einem-ESP32-Microcontoller-und-einer-Webapp-mittels-HTTP-Anfragen)
 - <b>Entfernungsabschätzung durch lineare MLP-Regression mit PyTorch</b>
   - [Application](https://github.com/joshmadakor1/Package-Deliver)
-- <b>REST Full API <b>
+- <b>REST Full API mit Datenbank <b>
   - [Web APP](https://github.com/TBilly11/Snake-Game-mit-Arduino) <b>
 </b>
 </b>
